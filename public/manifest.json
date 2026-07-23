@@ -1,6 +1,6 @@
 {
-  "name": "Jurnal Kuliah",
-  "short_name": "JurnalKuliah",
+  "name": "My Schedule",
+  "short_name": "My Schedule",
   "description": "Pelacak aktivitas, kehadiran, tugas, dan kalender perkuliahan real-time.",
   "start_url": "/",
   "display": "standalone",
